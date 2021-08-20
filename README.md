@@ -1,1 +1,1 @@
-# Automacao-ar-cond-proj-final
+Automaçao da temperatura de um quarto utilizando ar condicionado e RTOS
